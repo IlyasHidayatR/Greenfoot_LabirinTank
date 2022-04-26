@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Line
+comment0.text=\r\n\ @author\ (AryutinFoltus)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ turnLeft()
+comment3.params=direction
+comment3.target=void\ setDirection(int)
+numComments=4
